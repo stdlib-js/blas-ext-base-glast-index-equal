@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-06)
+## Unreleased (2026-07-07)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`9c31305`](https://github.com/stdlib-js/stdlib/commit/9c31305739ee5411d758efbe4ac7de92ae3e939b) - **test:** fix grammar in test descriptions _(by Athan Reines)_
 -   [`fd7a815`](https://github.com/stdlib-js/stdlib/commit/fd7a815ed819cf24b191af7a00043e6b6f451032) - **feat:** add `blas/ext/base/glast-index-equal` [(#13292)](https://github.com/stdlib-js/stdlib/pull/13292) _(by Muhammad Haris, Athan Reines)_
 
 </details>
